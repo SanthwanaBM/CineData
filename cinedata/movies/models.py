@@ -88,7 +88,7 @@ class Genre(BaseClass):
 
 
     def __str__(self):
-        return f'{self.name} - {self. proffession}'
+        return f'{self.name}'
     
     class Meta :
 
